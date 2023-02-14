@@ -1,1 +1,2 @@
-# Cryptocurrencies
+## Cryptocurrencies
+This report shows what cryptocurrencies are on the trading market and how they could be grouped to create a classification system. The data to create the report was processed to fit the machine learning models. Since there is no known output for what the report is looking for, it relies on unsupervised learning. To group cryptocurrencies, a clustering algorithm was used.
